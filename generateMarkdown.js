@@ -34,7 +34,8 @@ ${data.instructions}
 ${data.tests}
 \`\`\`
 ## Questions:
-\n* GitHub: https://github.com/${data.username}`
+\n* GitHub: https://github.com/${data.username}
+\n* Email: ${data.email}`
 }
 
 module.exports = {
