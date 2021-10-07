@@ -46,7 +46,7 @@ const promptUser = () => {
             type: 'input',
             message: 'What command should users run to use your project?',
             name: 'instructions',
-            default: 'npm run start',
+            default: 'node index.js',
         },
     ]);
 };
