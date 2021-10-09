@@ -37,3 +37,5 @@ npm run test
 * GitHub: https://github.com/moreorless13
 
 * Email: strandejr@gmail.com
+
+Video Walkthrough: https://drive.google.com/file/d/1UTIiFOr21aZ8fVfnsFkDWj0S6dJ4Z4mY/view?usp=sharing
